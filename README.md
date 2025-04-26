@@ -72,10 +72,9 @@ Quero conectar com quem também ama tech e sustentabilidade! Me encontra aqui:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </div>
-- 💬 **Sobre o que falar?**Tecnologia, geoprocessamento, natureza ou até umas dicas de corrida! 😄
 
----
-
-<div align="center">
-  <h3>🌟 #CodandoComImpacto – Vem comigo nessa missão tech e verde! 🚀</h3>
+ 💬 Sobre o que falar? Tecnologia, geoprocessamento, natureza ou até umas dicas de corrida! 😄
+ ---
+ <div align="center">
+ <h3>🌟 #CodandoComImpacto – Vem comigo nessa missão tech e verde! 🚀</h3></p>
 </div>
