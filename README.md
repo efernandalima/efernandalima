@@ -14,8 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaliima/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffernandalima.ads@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-f89820?style=for-the-badge&logo=vercel&logoColor=white)](https://www.efernandalima.com.br/)
-[![CV](https://img.shields.io/badge/Currículo-4A4A4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.efernandalima.com.br/assets/curriculo_fernanda_lima.pdf)
-
+ 
 </div>
 
 ---
@@ -26,11 +25,11 @@
 
 |      Back-end      |      Front-end       |    Banco de Dados    | DevOps & Cloud | Ferramentas  |
 | :----------------: | :------------------: | :------------------: | :------------: | :----------: |
-| Java · Spring Boot | Angular · TypeScript | PostgreSQL · MongoDB |  Docker · AWS  | Git · GitHub |
+| Java · Spring Boot | Angular · TypeScript | PostgreSQL · MongoDB |  Docker · AWS  | Git · GitLab |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,angular,typescript,html,css,js,docker,aws,git,github&perline=13&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,angular,typescript,html,css,js,docker,aws,git,gitlab&perline=13&theme=dark" />
 
 </div>
 
@@ -49,6 +48,5 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=f89820&height=80&section=footer&text=☕%20Powered%20by%20Java%20%26%20Coffee&fontSize=16&fontColor=f89820&stroke=f89820&strokeWidth=1" width="100%"/>
-
+ 
 </div>
