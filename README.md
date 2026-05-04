@@ -37,6 +37,5 @@ Desenvolvedora Full Stack com formação em Análise e Desenvolvimento de Sistem
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/efernandalima/efernandalima/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/efernandalima/efernandalima/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
 </div>
