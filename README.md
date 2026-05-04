@@ -25,16 +25,14 @@ Desenvolvedora Full Stack com formação em Análise e Desenvolvimento de Sistem
 ---
 
 ## Projetos em destaque
-
 | Projeto | Stack | Destaques | Link |
 |---|---|---|---|
+| **Atypical IA** | Python · Streamlit · Groq · AWS · Google Maps | Impacto social · Voz integrada ·  LLM | [→ ver](https://github.com/efernandalima/atypicalEDN) |
 | **go-task** | Angular 20 · Signals · OnPush | Testes 100% · CI/CD · Deploy Vercel | [→ ver](https://github.com/efernandalima/projeto-go-task) |
 | **Sistema de Livraria** | Java 21 · Spring Boot 3 · Docker | JWT · Flyway · MapStruct · Swagger | [→ ver](https://github.com/efernandalima/sistema-livraria) |
 | **Microservices** | Java 21 · Spring Boot 3 · Docker | AES-256-GCM · ELK · Jaeger · Swagger | [→ ver](https://github.com/efernandalima/microservice) |
 | **Gestão Financeira** | Java 17 · Spring Boot · PostgreSQL | API REST · relatórios por período · Bean Validation | [→ ver](https://github.com/efernandalima/gestao-financeira) |
 | **Portfólio Web** | HTML · CSS · JavaScript | SPA · dark mode · i18n PT/EN · animações CSS | [→ ver](https://www.efernandalima.com.br/) |
-
----
 
 <div align="center">
 
